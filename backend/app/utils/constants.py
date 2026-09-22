@@ -1,0 +1,7 @@
+BOOKING_STATUS_PENDING = "pending"
+BOOKING_STATUS_CONFIRMED = "confirmed"
+BOOKING_STATUS_CANCELLED = "cancelled"
+BOOKING_STATUS_COMPLETED = "completed"
+
+ROLE_CUSTOMER = "customer"
+ROLE_ADMIN = "admin"
